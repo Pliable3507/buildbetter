@@ -1,0 +1,9 @@
+title: Build Better
+description: Examining excellence in design and construction. 
+theme: minima
+markdown: kramdown
+
+# Navigation settings
+header_pages:
+  - What is this?.md
+  - Who am I?.md
