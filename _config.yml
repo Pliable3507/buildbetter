@@ -5,5 +5,5 @@ markdown: kramdown
 
 # Navigation settings
 header_pages:
-  - What is this?.md
-  - Who am I?.md
+  - What is this.md
+  - Who am I.md
